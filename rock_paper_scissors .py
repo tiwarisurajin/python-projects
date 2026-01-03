@@ -1,3 +1,4 @@
+#This game is sinmple Rock, Paper, Siccors
 print("     Rock Paper Scissor Game     ")
 
 
